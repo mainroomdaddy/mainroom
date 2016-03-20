@@ -1,0 +1,14 @@
+{
+  "name": "mainroom",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "latest",
+    "angular": "latest",
+    "angular-ui-router": "latest",
+    "ngDialog": "latest",
+    "angular-route": "~1.5.2"
+  },
+  "resolutions": {
+    "angular": "1.5.2"
+  }
+}

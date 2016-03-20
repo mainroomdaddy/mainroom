@@ -1,0 +1,5 @@
+mLab
+To connect using the mongo shell:
+mongo ds013559.mlab.com:13559/mainroom -u <dbuser> -p <dbpassword>
+To connect using a driver via the standard MongoDB URI (what's this?):
+  mongodb://<dbuser>:<dbpassword>@ds013559.mlab.com:13559/mainroom
