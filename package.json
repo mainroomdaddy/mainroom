@@ -10,7 +10,6 @@
         "cookie-parser": "latest",
         "debug": "latest",
         "express": "latest",
-        "ejs": "latest",
         "morgan": "latest",
         "serve-favicon": "latest"
     }
