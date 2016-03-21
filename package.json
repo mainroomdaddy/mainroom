@@ -11,6 +11,6 @@
         , "debug": "latest"
         , "express": "latest"
         , "morgan": "latest"
-        //, "serve-favicon": "latest"
+        , "serve-favicon": "latest"
     }
 }
